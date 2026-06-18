@@ -455,6 +455,16 @@ p {
   color: var(--muted);
 }
 
+.lab-steps {
+  margin: 10px 0 0;
+  padding-left: 20px;
+  color: var(--muted);
+}
+
+.lab-steps li {
+  margin-bottom: 8px;
+}
+
 .session-links {
   margin-top: 14px;
   display: flex;
